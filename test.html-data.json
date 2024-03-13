@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vscode-html-languageservice/master/docs/customData.schema.json",
+  "version": 1.1,
+  "globalAttributes": [
+    {
+      "name": "class",
+      "values": [
+        {
+          "name": "aaa"
+        }
+      ]
+    }
+  ]
+}
